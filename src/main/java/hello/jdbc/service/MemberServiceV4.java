@@ -14,7 +14,7 @@ import java.sql.SQLException;
 @Slf4j
 public class MemberServiceV4 {
 
-    private final MemberRepositoryV3 memberRepository;
+    private final MemberRepositoryV4 memberRepository;
 
     public MemberServiceV4(MemberRepositoryV3 memberRepository) {
         this.memberRepository = memberRepository;
