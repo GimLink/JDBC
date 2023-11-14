@@ -3,7 +3,7 @@ package hello.jdbc.repository;
 import hello.jdbc.domain.Member;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.jdbc.core.JdbcTemplate;
-import org.springframework.jdbc.core.RowMapper;ㅓ
+import org.springframework.jdbc.core.RowMapper;
 
 import javax.sql.DataSource;
 
